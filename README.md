@@ -20,9 +20,9 @@ When a player wins, a message is displayed, and the "Play Again" button appears 
 
 ## Programming Languages Used
 
-HTML5: Structure of the game board and elements.
-CSS3: Styling and layout of the game, including animations and responsive design.
-JavaScript: Game logic, including turn management, winner detection, and reset functionality.
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 ## License
 
